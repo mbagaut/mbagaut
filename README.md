@@ -1,7 +1,7 @@
 ### <div align="left">Всем привет👋 Меня зовут Марат, я начинающий веб-разработчик</div>  
   
 
-- 👨‍💻 В настоящее я успешно закончил учёбу в Яндекс.Практикуме по специальности веб-разработка  
+- 👨‍💻 В настоящее время я успешно окончил учёбу в Яндекс.Практикуме по специальности веб-разработка  
   
 - 🌱 Продолжаю изучать JS, TS, Node.js  
   
@@ -50,8 +50,7 @@
 
 ## Статистика Github
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbagaut&show_icons=true&locale=en&layout=compact" alt="mbagaut" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbagaut&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mbagaut&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbagaut&show_icons=true&locale=en" alt="mbagaut" /></p>
-
-<br/>  
+<br/>
